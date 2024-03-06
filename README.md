@@ -26,10 +26,11 @@ A comprehensive list of features within the dataset, such as model details, usag
 After conducting extensive Exploratory Data Analysis (EDA), we progress to model-driven EDA to further understand our dataset and refine our predictions.
 To predict the sale price of bulldozers, we employ a RandomForestRegressor, a powerful ensemble learning method suited for regression tasks.
 
-Key Insights and Model Performance
-Predictions are stored in the df_preds variable.
-Feature importance analysis indicates significant predictors, including ProductSize, saleYear, and Enclosure.
-These insights open avenues for further model enhancement through advanced feature engineering and parameter optimization.
+Key Insights and Model Performance:
+
+* Predictions are stored in the df_preds variable.
+* Feature importance analysis indicates significant predictors, including ProductSize, saleYear, and Enclosure.
+* These insights open avenues for further model enhancement through advanced feature engineering and parameter optimization.
 
 Usage Instructions
 Given GitHub's file size restrictions, it's necessary to download the data directly from Kaggle and set up the environment accordingly. Follow the steps outlined in the provided Jupyter Notebook for detailed instructions and explanations.
